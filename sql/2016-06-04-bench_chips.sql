@@ -20,6 +20,8 @@ CREATE TABLE `bench_chips` (
   `maxtdp` double NULL,
   `blake_rate` double NULL,
   `blake_power` double NULL,
+  `x7_rate` double NULL,
+  `x7_power` double NULL,
   `x11_rate` double NULL,
   `x11_power` double NULL,
   `sha_rate` double NULL,

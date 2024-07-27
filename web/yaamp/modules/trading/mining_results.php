@@ -27,6 +27,7 @@ $table = array(
 	'nist5'=>7,
 	'neoscrypt'=>8,
 	'lyra2'=>9,
+        'x7'=>10,
 );
 
 $res = false;

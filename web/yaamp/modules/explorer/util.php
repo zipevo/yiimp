@@ -163,6 +163,9 @@ function versionToAlgo($coin, $version)
 	$algos['DUO'] = array(
 		0=>'sha256', 1=>'scrypt'
 	);
+        $algos['6ZIP'] = array(
+                0=>'x11', 1=>'x7'
+        );
 	$algos['J'] = array(
 		2 =>'sha256', 3=>'x11', 4=>'x13', 5=>'x15', 6=>'scrypt',
 		7 =>'nist5',  8 =>'myr-gr', 9=>'penta', 10=>'whirlpool',
